@@ -13,7 +13,9 @@ Contained right now:
 
 ### Colors
 
-| color | code    | usage         |
-| ----- | ------- | ------------- |
-| red   | #B61B20 | primary color |
-| cyan  | #35ADA4 | primary color |
+| color | hex     | rgb         | usage         |
+| ----- | ------- | ----------- | ------------- |
+| red   | #B61B20 | 182,27,32   | primary color |
+| cyan  | #35ADA4 | 53,173,164  | primary color |
+| white | #FCFCFC | 252,252,252 | background    |
+| black | #0a0a0a | 10,10,10    | text          |
